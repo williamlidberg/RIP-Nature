@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20211205</CreaDate><CreaTime>19475200</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Image Analyst Tools.tbx\ZonalStatisticsAsTable" Date="20211205" Time="194752">ZonalStatisticsAsTable Vasterbotten_reff FID Mosaic_Hela_1_0.tif D:\RIP\Vasterbotten\Zonal_vaster_pre_harvest.dbf DATA Sum CURRENT_SLICE 90 Auto-detect</Process></lineage></DataProperties></Esri></metadata>

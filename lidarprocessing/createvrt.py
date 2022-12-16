@@ -14,6 +14,6 @@ def vrt(inputdir, output_vrt):
     vrt_options = gdal.BuildVRTOptions(resampleAlg='near', addAlpha=False)
     gdal.BuildVRT(output_vrt, listoftileswithoutborder, options=vrt_options)
 
-indata = 'Y:/William/RIP_NATURE_2/Canada/download_las_tiles_canada/canopy_above_5m/'
+indata = 'Y:/William/RIP_NATURE_2/Canada/download_las_tiles_canada/binarycanopy/'
 output_vrt = 'Y:/William/RIP_NATURE_2/Canada/download_las_tiles_canada/canopy.vrt'
 vrt(indata, output_vrt)
